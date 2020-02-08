@@ -1,4 +1,4 @@
-//Zadanie 1
+//Task 1
 
 function getSqrt(n) {
     return Math.sqrt(n);

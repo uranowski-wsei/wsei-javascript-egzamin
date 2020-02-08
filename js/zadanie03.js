@@ -1,6 +1,6 @@
 //Task 3
 
-const bigestSumOfTwoElements = (arr) =>{
+var bigestSumOfTwoElements = (arr) =>{
     if (arr.length === 0){
         return false;
     } else

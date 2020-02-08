@@ -1,4 +1,4 @@
-//Zadanie 2
+//Task 2
 
 function concatArray(array1, array2){
     var newArray = [];
